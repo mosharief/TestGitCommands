@@ -1,1 +1,6 @@
 C:\Users\User\TestGitCommands\GitDemoCommands\GitDemoCommands\bin\Debug\GitDemoCommands.exe.config
+C:\Users\User\TestGitCommands\GitDemoCommands\GitDemoCommands\bin\Debug\GitDemoCommands.exe
+C:\Users\User\TestGitCommands\GitDemoCommands\GitDemoCommands\bin\Debug\GitDemoCommands.pdb
+C:\Users\User\TestGitCommands\GitDemoCommands\GitDemoCommands\obj\Debug\GitDemoCommands.csprojResolveAssemblyReference.cache
+C:\Users\User\TestGitCommands\GitDemoCommands\GitDemoCommands\obj\Debug\GitDemoCommands.exe
+C:\Users\User\TestGitCommands\GitDemoCommands\GitDemoCommands\obj\Debug\GitDemoCommands.pdb

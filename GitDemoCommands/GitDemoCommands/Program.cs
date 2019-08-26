@@ -10,8 +10,20 @@ namespace GitDemoCommands
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Demo Commands");
+            Console.WriteLine("Start Console Application");
+
+            Employee emp = new Employee();
+            emp.Print();
+
             Console.ReadLine();
+        }
+
+        public class Employee
+        {
+           public void Print()
+            {
+                Console.WriteLine("Added Print method");
+            }
         }
     }
 }
