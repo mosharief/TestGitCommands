@@ -1,1 +1,1 @@
-# TestGitCommands
+# TestGitCommands for Git commands demonstrations
