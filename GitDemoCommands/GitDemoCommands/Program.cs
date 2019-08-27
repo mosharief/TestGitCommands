@@ -10,7 +10,7 @@ namespace GitDemoCommands
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Start Console Application");
+            Console.WriteLine("Start Application");
 
             Employee emp = new Employee();
             emp.Print();
